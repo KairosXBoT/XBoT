@@ -1,2 +1,0 @@
-# XBoT
-Just Me
